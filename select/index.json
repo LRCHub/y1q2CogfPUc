@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "COSMIC LOVE",
+  "base_artist": "水樹奈々",
+  "createdAt": "2026-01-12T13:30:39.680530Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cosmic Love",
+      "artist": "Florence + The Machine",
+      "has_synced": true,
+      "path": "select/01_Cosmic_Love_Florence_+_The_Machine.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cosmic Love",
+      "artist": "Mayer Hawthorne",
+      "has_synced": false,
+      "path": "select/02_Cosmic_Love_Mayer_Hawthorne.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Cosmic Love",
+      "artist": "喜多郎",
+      "has_synced": false,
+      "path": "select/03_Cosmic_Love_喜多郎.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Cosmic Love",
+      "artist": "Florence + the Machine",
+      "has_synced": true,
+      "path": "select/04_Cosmic_Love_Florence_+_the_Machine.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cosmic Love",
+      "artist": "Nana Mizuki",
+      "has_synced": true,
+      "path": "select/05_Cosmic_Love_Nana_Mizuki.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "COSMIC LOVE",
+      "artist": "Mizuki Nana",
+      "has_synced": true,
+      "path": "select/06_COSMIC_LOVE_Mizuki_Nana.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cosmic Love",
+      "artist": "Kitaro",
+      "has_synced": false,
+      "path": "select/07_Cosmic_Love_Kitaro.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cosmic Love",
+      "artist": "Jain",
+      "has_synced": false,
+      "path": "select/08_Cosmic_Love_Jain.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Cosmic Love (Live)",
+      "artist": "Florence + The Machine",
+      "has_synced": true,
+      "path": "select/09_Cosmic_Love_(Live)_Florence_+_The_Machine.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cosmic Love",
+      "artist": "Florence + the Machine",
+      "has_synced": true,
+      "path": "select/10_Cosmic_Love_Florence_+_the_Machine.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Cosmic Love",
+      "artist": "Florence + The Machine",
+      "has_synced": false,
+      "path": "select/11_Cosmic_Love_Florence_+_The_Machine.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Cosmic Love",
+      "artist": "Florence and the Machine",
+      "has_synced": true,
+      "path": "select/12_Cosmic_Love_Florence_and_the_Machine.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Cosmic Love (Acoustic Version)",
+      "artist": "Florence + the Machine",
+      "has_synced": true,
+      "path": "select/13_Cosmic_Love_(Acoustic_Version)_Florence_+_the_Machine.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Cosmic Love",
+      "artist": "Mizuki Nana",
+      "has_synced": false,
+      "path": "select/14_Cosmic_Love_Mizuki_Nana.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "COSMIC LOVE",
+      "artist": "水樹 奈々",
+      "has_synced": false,
+      "path": "select/pl_01_COSMIC_LOVE_水樹_奈々.txt"
+    }
+  ]
+}
